@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../housemark" value="2995975140000" />
+        <entry key="$PROJECT_DIR$/../mcs-stub-server" value="1497957411000" />
+        <entry key="$PROJECT_DIR$/../rango-apache" value="2958432224000" />
+        <entry key="$PROJECT_DIR$/../rango-authorisation-manager-project" value="10295173810000" />
+        <entry key="$PROJECT_DIR$/../rango-brain" value="2951690648000" />
+        <entry key="$PROJECT_DIR$/../rango-deploydocus" value="2958286856000" />
+        <entry key="$PROJECT_DIR$/../rango-international-signin-project" value="2941478212000" />
+        <entry key="$PROJECT_DIR$/../rango-journey-tests" value="1502785352000" />
+        <entry key="$PROJECT_DIR$/../rango-modifyprofile-project" value="2978017376000" />
+        <entry key="$PROJECT_DIR$/../rango-modifyprofile-project.bk" value="2941478228000" />
+        <entry key="$PROJECT_DIR$/../rango-oauth-project" value="10296057344000" />
+        <entry key="$PROJECT_DIR$/../rango-resetpassword-project" value="10295173784000" />
+        <entry key="$PROJECT_DIR$/../rango-servicesignup-project" value="11765912798000" />
+        <entry key="$PROJECT_DIR$/../rango-signin-project" value="11766796409000" />
+        <entry key="$PROJECT_DIR$/../rango-signout-project" value="11765912864000" />
+        <entry key="$PROJECT_DIR$/../rango-signup-project" value="11765912774000" />
+        <entry key="$PROJECT_DIR$/../rango-smoke-tests" value="2955513134000" />
+        <entry key="$PROJECT_DIR$/../rango-test-utils" value="2941478254000" />
+        <entry key="$PROJECT_DIR$/../rango-threatmetrix-project" value="2975386948000" />
+        <entry key="$PROJECT_DIR$/../skyid-config-check-test" value="2955842652000" />
+        <entry key="$PROJECT_DIR$/../skyid-modules" value="2952560628000" />
+        <entry key="$PROJECT_DIR$/../skyid-project/skyid-test" value="20708977621000" />
+        <entry key="$PROJECT_DIR$/../web-cluster-deploy-app" value="1479210970000" />
+        <entry key="$USER_HOME$/personal/expenseTracker" value="1475012647000" />
+        <entry key="$USER_HOME$/private_w/appraisal_v2" value="2996141581000" />
+        <entry key="$USER_HOME$/private_w/flamemoney" value="2977500041000" />
+        <entry key="$USER_HOME$/private_w/focusonsmall" value="2963736671000" />
+        <entry key="$USER_HOME$/private_w/housemark" value="2995983242000" />
+        <entry key="$USER_HOME$/private_w/insiza-tracker" value="1500984026000" />
+        <entry key="$USER_HOME$/private_w/insiza-tracker/insiza-asset-tracker" value="1501167852000" />
+        <entry key="$USER_HOME$/private_w/insizaApp" value="1506697052000" />
+        <entry key="$USER_HOME$/private_w/insizaApp/insizaHR" value="1506630603000" />
+        <entry key="$USER_HOME$/private_w/jsonpApp" value="3010133005000" />
+        <entry key="$USER_HOME$/private_w/schoolfees-project" value="2974386318000" />
+        <entry key="$USER_HOME$/private_w/scratch/todo-app" value="1490251176000" />
+        <entry key="$USER_HOME$/private_w/scratchbook" value="2994600395000" />
+        <entry key="$USER_HOME$/private_w/spring-security-rest-sample" value="3009772493000" />
+        <entry key="$USER_HOME$/private_w/todoApp" value="2947761356000" />
+        <entry key="$USER_HOME$/private_w/workspacehr" value="2969191373000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../getProfile" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../getprofile" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../getprofilebakeoff" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../github/id-rango-authorisation-manager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../github/id-rango-modifyprofile" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../github/id-rango-projects" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../github/id-rango-signin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../github/id-rango-threatmetrix" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../github/id-skyid-modules" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../github/id-wig-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../rango-projects" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../skyid-gradle-plugins" value="PREVIEW" />
+        <entry key="$USER_HOME$/corda-tutorial/cordapp-template-kotlin" value="PREVIEW" />
+        <entry key="$USER_HOME$/corda-tutorial/cordapp-tutorial" value="PREVIEW" />
+        <entry key="$USER_HOME$/private_w/amazonapis" value="PREVIEW" />
+        <entry key="$USER_HOME$/private_w/bootcamp-cordapp" value="PREVIEW" />
+        <entry key="$USER_HOME$/private_w/easter_eggs_for_gradle/egg_StackOverflow_48815890" value="PREVIEW" />
+        <entry key="$USER_HOME$/private_w/focusonsmall" value="PREVIEW" />
+        <entry key="$USER_HOME$/private_w/kotexamples" value="PREVIEW" />
+        <entry key="$USER_HOME$/private_w/kotlin-fullstack-sample" value="PREVIEW" />
+        <entry key="$USER_HOME$/private_w/marinc" value="PREVIEW" />
+        <entry key="$USER_HOME$/private_w/mn-grails-app" value="PREVIEW" />
+        <entry key="$USER_HOME$/private_w/mn-lambda/invoice" value="PREVIEW" />
+        <entry key="$USER_HOME$/private_w/mn-lambda/vies-vat-validatorkotlin" value="PREVIEW" />
+        <entry key="$USER_HOME$/private_w/scheduleSaas" value="PREVIEW" />
+        <entry key="$USER_HOME$/private_w/vies-vat-validator" value="PREVIEW" />
+        <entry key="$USER_HOME$/private_ws_js/leapfinhr-application/leapfinhr-backend" value="PREVIEW" />
+        <entry key="$USER_HOME$/test/koogway" value="PREVIEW" />
+        <entry key="$USER_HOME$/test/my-app" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.GSP" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Documents/TM.scala.tutorial/example" value="1459519974000" />
+        <entry key="$USER_HOME$/Documents/TM.scala.tutorial/recfun" value="1462372730000" />
+        <entry key="$PROJECT_DIR$/../cybertron" value="1503396356000" />
+        <entry key="$PROJECT_DIR$/../identity-bridge" value="4517753682000" />
+        <entry key="$USER_HOME$/private_w/akka-quickstart-scala" value="1505131982000" />
+        <entry key="$USER_HOME$/private_w/finagle/doc/src/sphinx/code/quickstart" value="1503681847000" />
+        <entry key="$USER_HOME$/private_w/scalaLessons" value="1487018837000" />
+        <entry key="$USER_HOME$/private_w/scalatra-sbt-prototype" value="1505211578000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../github/id-cybertron" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../learning-scala/id-scala-learning-resources" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19961241" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
